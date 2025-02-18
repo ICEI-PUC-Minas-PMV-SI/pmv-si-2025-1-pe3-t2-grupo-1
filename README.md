@@ -14,7 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Kelly Rodrigues
 * Francisco Faria
 * Gustavo Gorges Koch 
-* Joao Victor Alves
+* João Victor Alves
 * Pedro Henrique Valente
 
 ## Orientador
