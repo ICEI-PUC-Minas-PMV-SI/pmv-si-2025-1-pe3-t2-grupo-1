@@ -6,7 +6,9 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto Design Centrado no Usuário tem como foco a criação de uma experiência intuitiva e acessível para reservas em hotéis de forma simples. A proposta busca entender as necessidades dos usuários e otimizar processos como reserva online, reserva por telefone e check-in/checkout, garantindo praticidade e eficiência.
+
+Com uma abordagem centrada no usuário, o design prioriza uma navegação clara, comunicação transparente e interfaces funcionais. O objetivo é reduzir barreiras no processo de reserva, tornando a experiência mais fluida e satisfatória para os hóspedes, independentemente do meio utilizado.
 
 ## Integrantes
 
