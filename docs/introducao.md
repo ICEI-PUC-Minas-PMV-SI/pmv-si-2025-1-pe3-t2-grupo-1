@@ -1,6 +1,12 @@
 # 1. INTRODUÇÃO
 
-Contextualizar a área de pesquisa do trabalho, apresentando conceitos e dados relacionados antes de apresentar a problemática a ser investigada.
+Dado o crescente foco na experiência do cliente e na competitividade do setor hoteleiro, a aplicação dos princípios de Design Centrado no Usuário (DCU) nos sistemas de informação dos hotéis tornou-se essencial na atualidade. 
+
+No contexto hoteleiro, esse estilo de design – que visa criar interfaces e funcionalidades adaptadas às necessidades, comportamentos e preferências dos usuários – traduz-se na criação de sistemas acessíveis, intuitivos e inclusivos, permitindo uma navegação fluida e proporcionando uma experiência mais personalizada e eficaz para um público diverso, sendo um fator decisivo na escolha da hospedagem. 
+
+Um exemplo claro do impacto desse modelo de desenvolvimento, aplicado à área de hospedagem, é o Airbnb. Fundado em 2008, o Airbnb começou como uma plataforma simples, mas, percebendo o potencial de transformar o setor, seus fundadores apostaram em um design focado na experiência do usuário e conquistaram grande sucesso. De acordo com o centro de educação Meritshot (Airbnb Case Study: The Success Story of Airbnb, 2024): “Com suporte para 62 idiomas, o Airbnb cresceu de uma operação local para uma presença global, atuando em mais de 191 países e 65 mil cidades.” Dessa forma, a evolução da interface minimalista e intuitiva da plataforma foi fundamental para torná-la acessível a um grande público, facilitando a navegação e o processo de reserva para usuários do mundo todo. 
+
+Assim, esse caso de sucesso demonstra a importância do design centrado no usuário no desenvolvimento de sistemas de informação para a área de hospedagem. Aplicando soluções funcionais que se conectem de forma mais personalizada com os usuários, é possível obter maior sucesso nos negócios hoteleiros. 
 
 ## 1.1. Problema
 
