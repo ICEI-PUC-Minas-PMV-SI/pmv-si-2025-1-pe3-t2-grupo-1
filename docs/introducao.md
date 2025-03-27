@@ -16,9 +16,9 @@ Assim, esse caso de sucesso demonstra a importância do design centrado no usuá
 
          Entre os principais problemas identificados, destacam-se: 
 
-Falta de ferramentas para otimizar os processos – Em períodos de alta demanda, a ausência de check-in autônomo resulta em longas filas e atrasos, prejudicando a experiência dos hóspedes. (Coelho, 2023) 
+- Falta de ferramentas para otimizar os processos – Em períodos de alta demanda, a ausência de check-in autônomo resulta em longas filas e atrasos, prejudicando a experiência dos hóspedes. (Coelho, 2023) 
 
-Falta de requisitos baseados nos usuários – Websites e aplicativos são desenvolvidos sem considerar as reais necessidades dos clientes. (Coelho, 2023) 
+- Falta de requisitos baseados nos usuários – Websites e aplicativos são desenvolvidos sem considerar as reais necessidades dos clientes. (Coelho, 2023) 
 
          Diante desse cenário, o grande desafio das empresas hoteleiras é selecionar e implementar sistemas intuitivos, acessíveis e adaptáveis a diferentes perfis de clientes, independentemente da idade ou do nível de familiaridade com tecnologia. O design digital deve ser inclusivo e eficiente, proporcionando todas as funcionalidades essenciais sem sobrecarregar o usuário com informações desnecessárias. 
 
