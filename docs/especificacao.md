@@ -3,18 +3,26 @@
 Nesta parte do trabalho você deve detalhar a documentação dos requisitos do sistema proposto de acordo com as seções a seguir. Ressalta-se que aqui é utilizado como exemplo um sistema de gestão de cursos de aperfeiçoamento.
 
 ## 3.1 Objetivos deste documento
-Descrever e especificar as necessidades da Coordenação do Curso de Sistemas de Informação da PUC Minas que devem ser atendidas pelo projeto SCCA – Sistema de Cadastro de Cursos de Aperfeiçoamento.
+Este documento tem como objetivo descrever e especificar as necessidades que devem ser atendidas pelo sistema de administração hoteleira, a experiência dos hóspedes e o trabalho da recepção. O sistema deve permitir um controle eficaz das reservas e da disponibilidade dos quartos, facilitando a organização da ocupação para os administradores. Além disso, deve oferecer uma interface intuitiva para a busca e atualização de informações, reduzindo erros e agilizando o atendimento da recepcionista. Para os hóspedes, é essencial que o processo de reserva seja simplificado, proporcionando uma experiência prática e acessível desde o primeiro contato com o hotel. 
 
 ## 3.2 Escopo do produto
 
 ### 3.2.1 Nome do produto e seus componentes principais
-O produto será denominado SCCA – Sistema de Cadastro de Cursos de Aperfeiçoamento. Ele terá somente um componente (módulo) com os devidos elementos necessários à gestão de cursos.
+A aplicação web desenvolvida será denominada Hospedagem Simples, e seus componentes principais são: 
+
+Módulo de cadastro de clientes e usuários: permite o gerenciamento de registro, atualização e consulta de informações dos hóspedes. Inclui controle de acesso e perfis (administrador, recepcionista e cliente); 
+
+Módulo de administração: permite o cadastro – incluindo informações como tipo de quarto, características do quarto, valores e status do quarto (disponível, ocupado ou em manutenção) - e manutenção dos quartos. Além disso, permitirá o controle de disponibilidade para novas reservas e configurações gerais do sistema, como políticas de cancelamento e gerenciamento de usuários; 
+
+Módulo de reserva: é o módulo central que comanda a interação dos usuários com o hotel. Assim, permite a interação dos clientes com os quartos cadastrados, podendo criar, alterar e cancelar reservas. Ainda, exibe os sistemas de filtragem e foto dos quartos. 
+
+Módulo de pagamento: permite a confirmação das informações - como data, quarto e número de hóspedes - das reservas selecionadas, permite também a seleção da forma de pagamento e o redirecionamento para um sistema (VIA API) de gerenciamento de pagamento externo (Ex: Mercado Pago). 
 
 ### 3.2.2 Missão do produto
-Gerenciar informações sobre a oferta de cursos de aperfeiçoamento, gerenciar a composição das turmas, alunos, professores e matrículas. 
+O projeto tem como missão otimizar os processos oferecendo uma experiência mais prática e eficiente para os hóspedes, possibilitando ao usuário visualizar de forma rápida e direta as opções de quartos, preços e disponibilidade, finalizar e reservar sem dificuldade ou incertezas. 
 
 ### 3.2.3 Limites do produto
-O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcelas do curso, pagamento a professore e agendamentos. O SCCA não contempla o atendimento a vários cursos de Sistemas de Informação de outras unidades da PUC Minas.
+O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hóspedes. Além disso, o sistema não garante a disponibilidade contínua de todas as amenidades oferecidas pelo hotel durante todo o período da reserva, estando sujeito a eventuais mudanças ou limitações nas instalações e serviços.
 
 ### 3.2.4 Benefícios do produto
 
@@ -56,7 +64,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 ## 3.4 Modelagem do Sistema
 
 ### 3.4.1 Diagrama de Casos de Uso
-Como observado no diagrama de casos de uso da Figura 1, a secretária poderá gerenciar as matrículas e professores no sistema, enquanto o coordenador, além dessas funções, poderá gerenciar os cursos de aperfeiçoamento.
+ Como observado no diagrama de casos de uso da Figura 1, o hóspede poderá gerenciar os dados pessoais, visualizar a disponibilidade de quartos e fazer reservas. O recepcionista poderá visualizar todas as reservas disponíveis, e o administrador, além dessas funções, poderá gerenciar todos os dados relacionados às reservas, informações de quartos e gestão de acessos.
 
 #### Figura 1: Diagrama de Casos de Uso do Sistema.
 
