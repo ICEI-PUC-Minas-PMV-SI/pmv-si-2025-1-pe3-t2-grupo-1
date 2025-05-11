@@ -12,10 +12,8 @@ Com uma abordagem centrada no usuário, o design prioriza uma navegação clara,
 
 ## Integrantes
 
-* Maria Eduarda Justo
 * Kelly Rodrigues
 * Francisco Faria
-* Gustavo Gorges Koch 
 * João Victor Alves
 * Pedro Henrique Valente
 
