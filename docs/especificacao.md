@@ -1,18 +1,18 @@
-3. DOCUMENTO DE ESPECIFICAÇÃO DE REQUISITOS DE SOFTWARE 
+# 3. DOCUMENTO DE ESPECIFICAÇÃO DE REQUISITOS DE SOFTWARE 
 
  
 
-3.1 Objetivos deste documento 
+## 3.1 Objetivos deste documento 
 
 Este documento tem como objetivo descrever e especificar as necessidades que devem ser atendidas pelo sistema de administração hoteleira, a experiência dos hóspedes e o trabalho da recepção. O sistema deve permitir um controle eficaz das reservas e da disponibilidade dos quartos, facilitando a organização da ocupação para os administradores. Além disso, deve oferecer uma interface intuitiva para a busca e atualização de informações, reduzindo erros e agilizando o atendimento da recepcionista. Para os hóspedes, é essencial que o processo de reserva seja simplificado, proporcionando uma experiência prática e acessível desde o primeiro contato com o hotel. 
 
  
 
-3.2 Escopo do produto 
+## 3.2 Escopo do produto 
 
  
 
-3.2.1 Nome do produto e seus componentes principais 
+### 3.2.1 Nome do produto e seus componentes principais 
 
 A aplicação web desenvolvida será denominada Hospedagem Simples, e seus componentes principais são: 
 
@@ -26,17 +26,17 @@ Módulo de pagamento: permite a confirmação das informações - como data, qua
 
  
 
-3.2.2 Missão do produto 
+### 3.2.2 Missão do produto 
 
 O projeto tem como missão otimizar os processos oferecendo uma experiência mais prática e eficiente para os hóspedes, possibilitando ao usuário visualizar de forma rápida e direta as opções de quartos, preços e disponibilidade, finalizar e reservar sem dificuldade ou incertezas. 
 
  
 
-3.2.3 Limites do produto 
+### 3.2.3 Limites do produto 
 
-        O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hóspedes. Além disso, o sistema não garante a disponibilidade contínua de todas as amenidades oferecidas pelo hotel durante todo o período da reserva, estando sujeito a eventuais mudanças ou limitações nas instalações e serviços. 
+O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hóspedes. Além disso, o sistema não garante a disponibilidade contínua de todas as amenidades oferecidas pelo hotel durante todo o período da reserva, estando sujeito a eventuais mudanças ou limitações nas instalações e serviços. 
 
-3.2.4 Benefícios do produto 
+### 3.2.4 Benefícios do produto 
 
  ![image](https://github.com/user-attachments/assets/cb9fc422-5b3a-4348-80b2-6d3f2cb2c3b9)
 
@@ -49,11 +49,11 @@ O projeto tem como missão otimizar os processos oferecendo uma experiência mai
 
  
 
-3.3 Descrição geral do produto 
+## 3.3 Descrição geral do produto 
 
  
 
-3.3.1 Requisitos Funcionais 
+### 3.3.1 Requisitos Funcionais 
 
  ![image](https://github.com/user-attachments/assets/f6671453-505a-4220-a9d7-201e9519fb42)
 
@@ -69,7 +69,7 @@ O projeto tem como missão otimizar os processos oferecendo uma experiência mai
 
  
 
-3.3.1 Requisitos Não Funcionais 
+### 3.3.1 Requisitos Não Funcionais 
 
  
 ![image](https://github.com/user-attachments/assets/c253cc69-c777-4f30-b85a-46d20bc2e02c)
@@ -82,7 +82,7 @@ O projeto tem como missão otimizar os processos oferecendo uma experiência mai
 
  
 
-3.3.2 Usuários  
+### 3.3.2 Usuários  
 
  ![image](https://github.com/user-attachments/assets/8e0c89ca-fd11-49ec-9449-01b55346c8a5)
 
@@ -93,11 +93,11 @@ O projeto tem como missão otimizar os processos oferecendo uma experiência mai
 
  
 
-3.4 Modelagem do Sistema 
+## 3.4 Modelagem do Sistema 
 
  
 
-3.4.1 Diagrama de Casos de Uso 
+### 3.4.1 Diagrama de Casos de Uso 
 
     Como observado no diagrama de casos de uso da Figura 1, o hóspede poderá gerenciar os dados pessoais, visualizar a disponibilidade de quartos e fazer reservas. O recepcionista poderá visualizar todas as reservas disponíveis, e o administrador, além dessas funções, poderá gerenciar todos os dados relacionados às reservas, informações de quartos e gestão de acessos. 
 
@@ -108,7 +108,7 @@ O projeto tem como missão otimizar os processos oferecendo uma experiência mai
 
 Figura 1: Diagrama de Casos de Uso do Sistema. 
 
-3.4.2 Descrições de Casos de Uso 
+### 3.4.2 Descrições de Casos de Uso 
 
  
 
@@ -154,7 +154,7 @@ Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
 
 
 
-3.4.3 Diagrama de Classes  
+### 3.4.3 Diagrama de Classes  
 
    A Figura 2 mostra o diagrama de classes do sistema de reservas. A Reserva deve conter a identificação do funcionário responsável pelo registro, bem como os dados do hóspede e do quarto reservado. Um quarto pode ter diversas reservas, mas pertence a apenas um tipo de quarto. Promoções podem ser aplicadas a diferentes reservas, e os preços podem variar de acordo com o período.
 
@@ -164,7 +164,7 @@ Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
 
 Figura 2: Diagrama de Classes do Sistema. 
 
-3.4.3 Descrições das Classes  
+### 3.4.3 Descrições das Classes  
 
 ![image](https://github.com/user-attachments/assets/70fa6ae1-16e7-454a-bc03-fc725db61722)
 
