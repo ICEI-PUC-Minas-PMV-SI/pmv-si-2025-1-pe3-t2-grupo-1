@@ -1,4 +1,6 @@
-# REFERÊNCIAS
+REFERÊNCIAS 
+
+ 
 
 Fórum de Operadores Hoteleiros do Brasil. "Resultados do mês: Agosto 2024". São Paulo – SP, Brasil, 2024. Obtido em: https://fohb.com.br/wp-content/uploads/2024/10/InFOHB-205-Agosto.pdf. Acesso em: 19/3/2025. 
 
@@ -17,3 +19,5 @@ LESTARI, Nurul Sukma; ROSMAN, Dendy; FARIDI, Ahmad; SUKMA, Braja Ekma; ROKHMAH, 
  
 
 COELHO, António Carlos Pargana. Desenvolvimento Centrado no Utilizador em Hotelaria. 2023. 80 f. Dissertação (Mestrado em Informática) – Faculdade de Ciências, Universidade de Lisboa, Departamento de Informática, Lisboa, 2023. Orientadores: Professor Doutor Carlos Alberto Pacheco dos Anjos Duarte e Professor Doutor José Romana Baptista Coelho. Disponível em: http://hdl.handle.net/10451/63501. Acesso em: 28/2/2025. 
+
+ 
