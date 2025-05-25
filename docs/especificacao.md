@@ -38,7 +38,9 @@ O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hósped
 
 ### 3.2.4 Benefícios do produto 
 
- ![image](https://github.com/user-attachments/assets/cb9fc422-5b3a-4348-80b2-6d3f2cb2c3b9)
+ ![image](https://github.com/user-attachments/assets/34b92d2d-4fa8-4200-8a8d-e5fdc56d8fd3)
+
+![image](https://github.com/user-attachments/assets/228cbfc5-4ba6-4827-992d-251614b08649)
 
 
 # 
@@ -55,15 +57,17 @@ O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hósped
 
 ### 3.3.1 Requisitos Funcionais 
 
- ![image](https://github.com/user-attachments/assets/f6671453-505a-4220-a9d7-201e9519fb42)
-
-
- 
-![image](https://github.com/user-attachments/assets/26b0f6b8-514d-4ca7-9878-7fb47db7795f)
+ ![image](https://github.com/user-attachments/assets/73290944-c76e-43ec-80d2-704b0912c034)
 
 
 
-![image](https://github.com/user-attachments/assets/0e8b8571-9312-4cd8-a27d-fa96c3f8b955)
+ ![image](https://github.com/user-attachments/assets/9ddcdeeb-e2dc-4565-b47f-9c311c4484c8)
+
+
+
+
+![image](https://github.com/user-attachments/assets/aacc8d7a-15c2-48a8-b113-7e698482c4eb)
+
 
 
 
@@ -72,10 +76,12 @@ O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hósped
 ### 3.3.1 Requisitos Não Funcionais 
 
  
-![image](https://github.com/user-attachments/assets/c253cc69-c777-4f30-b85a-46d20bc2e02c)
+![image](https://github.com/user-attachments/assets/c13c2d10-3060-4aca-a6de-33beabf7e9c0)
 
 
-![image](https://github.com/user-attachments/assets/e0054303-ab47-44ff-bc11-42106282839a)
+
+![image](https://github.com/user-attachments/assets/aeacdd16-c1bb-4b13-bbb0-f529872c065d)
+
 
 
 
@@ -84,11 +90,12 @@ O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hósped
 
 ### 3.3.2 Usuários  
 
- ![image](https://github.com/user-attachments/assets/8e0c89ca-fd11-49ec-9449-01b55346c8a5)
+ ![image](https://github.com/user-attachments/assets/b8660e1b-829e-40b6-a24e-b1e8151d97d5)
 
 
 
-![image](https://github.com/user-attachments/assets/a80c7d84-3722-4538-a9d8-7f069587feff)
+
+
 
 
  
@@ -102,8 +109,8 @@ O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hósped
     Como observado no diagrama de casos de uso da Figura 1, o hóspede poderá gerenciar os dados pessoais, visualizar a disponibilidade de quartos e fazer reservas. O recepcionista poderá visualizar todas as reservas disponíveis, e o administrador, além dessas funções, poderá gerenciar todos os dados relacionados às reservas, informações de quartos e gestão de acessos. 
 
  
+****![image](https://github.com/user-attachments/assets/ccf6a084-f7ca-434b-8282-e808d9de077f)
 
-![image](https://github.com/user-attachments/assets/a115ac23-247a-40ff-902c-cef020bbd2f5)
 
 
 Figura 1: Diagrama de Casos de Uso do Sistema. 
@@ -114,44 +121,71 @@ Figura 1: Diagrama de Casos de Uso do Sistema.
 
 Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo: 
 
- ![image](https://github.com/user-attachments/assets/235c7a99-0b94-4edf-878a-f33d4c723780)
+![image](https://github.com/user-attachments/assets/daea76ff-a708-43a9-a689-c7c38f520b9b)
 
 
 
-![image](https://github.com/user-attachments/assets/f5d40c1c-1952-491d-99ef-9acdce66a468)
+
+![image](https://github.com/user-attachments/assets/e0424cb7-ce8a-42a9-92d6-c512770b0841)
 
 
 
-![image](https://github.com/user-attachments/assets/ecea42e8-27a3-4e97-820c-90f39e96a1f4)
+
+![image](https://github.com/user-attachments/assets/b8adefc5-f6b3-460d-aed9-f3ebf203ad67)
 
 
 
-![image](https://github.com/user-attachments/assets/08469361-e87c-48de-932f-cd127c7d7521)
+
+![image](https://github.com/user-attachments/assets/aa5d9973-cc2c-4bf7-863f-dbe60a6f746f)
 
 
 
-![image](https://github.com/user-attachments/assets/27c1875f-42d2-4b7f-94f2-c65b6ca39dd4)
+
+![image](https://github.com/user-attachments/assets/36d933db-422a-4179-8d19-2b0ee75be033)
 
 
 
-![image](https://github.com/user-attachments/assets/6d813d50-9380-4894-bfbb-cb3a8f5ef989)
+
+![image](https://github.com/user-attachments/assets/8561d7ff-c0ca-441d-8b68-a03d83c0fee1)
 
 
 
-![image](https://github.com/user-attachments/assets/ff6505c8-875e-4268-857d-065ede19bb88)
+
+![image](https://github.com/user-attachments/assets/7ef17311-556e-488b-87c2-c67b8885fa50)
 
 
 
-![image](https://github.com/user-attachments/assets/097bb0ee-1fde-4916-8db1-5d9b9c2b552e)
+
+![image](https://github.com/user-attachments/assets/c2f7b74f-8120-4323-ba80-3c7ddff8106b)
 
 
 
-![image](https://github.com/user-attachments/assets/d5b736d0-fd54-4e05-a4c7-17802ae81c36)
+
+![image](https://github.com/user-attachments/assets/ecb462ef-a3f3-406d-96ae-011837c609b3)
 
 
 
-![image](https://github.com/user-attachments/assets/a4b377c2-49fb-455f-a400-4d44ff41e281)
+![image](https://github.com/user-attachments/assets/062317c1-188c-44b7-92a1-05fb8e23247b)
 
+
+
+![image](https://github.com/user-attachments/assets/3c544848-2c0d-431e-89af-4a6bd9335e79)
+
+
+
+![image](https://github.com/user-attachments/assets/11d345dc-7951-48d2-9b69-066045a9deec)
+
+
+
+![image](https://github.com/user-attachments/assets/bb7c558a-e232-4782-9ee9-536df5df327b)
+
+
+
+![image](https://github.com/user-attachments/assets/22c4de51-db20-47bd-a377-78c03ea876aa)
+
+
+
+![image](https://github.com/user-attachments/assets/4b819ae3-4e39-4ec2-96b4-3273453d8e47)
 
 
 ### 3.4.3 Diagrama de Classes  
@@ -159,15 +193,18 @@ Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
    A Figura 2 mostra o diagrama de classes do sistema de reservas. A Reserva deve conter a identificação do funcionário responsável pelo registro, bem como os dados do hóspede e do quarto reservado. Um quarto pode ter diversas reservas, mas pertence a apenas um tipo de quarto. Promoções podem ser aplicadas a diferentes reservas, e os preços podem variar de acordo com o período.
 
 
-   ![image](https://github.com/user-attachments/assets/0c2fbcb9-1d9a-41f0-bdff-028cc8511f0d)
+![image](https://github.com/user-attachments/assets/d5103cf1-4a2d-4c02-a6b3-6aa854709380)
+
 
 
 Figura 2: Diagrama de Classes do Sistema. 
 
 ### 3.4.3 Descrições das Classes  
 
-![image](https://github.com/user-attachments/assets/70fa6ae1-16e7-454a-bc03-fc725db61722)
+![image](https://github.com/user-attachments/assets/8e2a8cfb-e8f7-4c52-ae4c-ad0fc7d9f46a)
 
 
 
-![image](https://github.com/user-attachments/assets/159c1fd9-ce5d-47d9-9a8a-fd9bddb2205f)
+
+![image](https://github.com/user-attachments/assets/5caebdf9-7677-4628-9b80-d09c09b03da8)
+
