@@ -1,10 +1,10 @@
 # 5. PLANO DE TESTES DE SOFTWARE
    
-Nesta etapa devem ser realizados dois tipos de avaliação: por observação de sessão de uso (teste com usuários) e por inspeção (avaliação heurística, realizada pelos especialistas em usabilidade). Foram disponibilizados em "Material de Apoio" modelos para o registro dos testes que deverão ser realizados da seguinte maneira:
-•	Na avaliação heurística, cada integrante do grupo deverá preencher a planilha correspondente ao teste (arquivo Avaliação_Heurística.xlsx). Ao final, os resultados deverão ser compilados em arquivo único de mesmo formato.
-•	Na avaliação por observação de sessão de uso, deverão ser definidas tarefas em quantidade igual ao número de integrantes do grupo (ex.: grupo com 5 integrantes, 5 tarefas) e documentadas no relatório de testes com usuário (arquivo Relatório_de_Testes_com_Usuário.docx). Cada integrante do grupo deverá realizar o teste com um usuário distinto (ex.: grupo com 5 integrantes, 5 usuários deverão ser escolhidos, um por cada membro, para a realização dos testes).
+Esta página descreve o Plano de Testes de Software, apresentando em detalhes as duas metodologias de avaliação realizadas pelo grupo: 
 
-Ao final, os relatórios gerados por cada membro deverão ser disponibilizados aqui, juntamente com a planilha consolidada da avaliação heurística.
+   Avaliação Heurística – Consistiu em uma análise da interface feita por especialistas em usabilidade. Cada integrante avaliou os elementos com base em heurísticas específicas, registrando problemas identificados, aspectos positivos e o grau de severidade em sua aba individual no arquivo de Avaliação Heurística. Posteriormente, todas as informações foram reunidas em uma aba consolidada. 
+
+   Teste com Usuários (Observação de Sessões de Uso) – Foram definidas 4 tarefas (uma para cada membro do grupo), e cada tarefa foi aplicada em sessões individuais com usuários diferentes. Durante essas sessões, foram coletadas métricas de desempenho, dificuldades enfrentadas e feedbacks, todos documentados no Relatório de Testes com Usuário, com referência ao membro responsável por cada tarefa. 
 
 Material de apoio para esta etapa:
 
