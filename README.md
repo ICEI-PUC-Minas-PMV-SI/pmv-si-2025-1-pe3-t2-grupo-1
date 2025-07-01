@@ -10,6 +10,8 @@ O projeto Design Centrado no Usuário tem como foco a criação de uma experiên
 
 Com uma abordagem centrada no usuário, o design prioriza uma navegação clara, comunicação transparente e interfaces funcionais. O objetivo é reduzir barreiras no processo de reserva, tornando a experiência mais fluida e satisfatória para os hóspedes, independentemente do meio utilizado.
 
+![Image](https://github.com/user-attachments/assets/56613454-11d7-4592-845f-5cadeb908aa7)
+
 ## Integrantes
 
 * Kelly Rodrigues
