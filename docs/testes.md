@@ -8,9 +8,10 @@ Esta página descreve o Plano de Testes de Software, apresentando em detalhes as
 
 Material de apoio para esta etapa:
 
+[Avaliação_Heurística.pdf](https://github.com/user-attachments/files/21006068/Avaliacao_Heuristica.pdf)
 
-[Avaliação_Heurística.xlsx](https://github.com/user-attachments/files/16501461/Avaliacao_Heuristica.xlsx) 
+[Relatório_de_Testes_com_Usuário - João Victor Alves.pdf](https://github.com/user-attachments/files/21006077/Relatorio_de_Testes_com_Usuario.-.Joao.Victor.Alves.pdf)
 
-[Relatório_de_Testes_com_Usuário.docx](https://github.com/user-attachments/files/16501456/Relatorio_de_Testes_com_Usuario.docx)
+[Relatorio_de_Testes_com_Usuario-Kelly Rodrigues Batista - cópia.pdf](https://github.com/user-attachments/files/21006125/Relatorio_de_Testes_com_Usuario-Kelly.Rodrigues.Batista.-.copia.pdf)
 
-[Relatório_de_Testes_com_Usuário_exemplo.docx](https://github.com/user-attachments/files/16501459/Relatorio_de_Testes_com_Usuario_exemplo.docx)
+[Relatório_de_Testes_com_Usuário - Pedro Henrique Valente - cópia.pdf](https://github.com/user-attachments/files/21006133/Relatorio_de_Testes_com_Usuario.-.Pedro.Henrique.Valente.-.copia.pdf)
