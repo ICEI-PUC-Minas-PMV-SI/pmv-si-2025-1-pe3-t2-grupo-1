@@ -32,7 +32,7 @@
 
 ### 1. Tela de Login 
 
-![image](https://github.com/user-attachments/assets/0b46a87f-c890-4065-a2a8-d758a07231f1)
+![Image](https://github.com/user-attachments/assets/43df1322-71d5-49a3-9f11-5e4ce97919d7)
 
 #### Objetivo da Tela 
 
@@ -74,7 +74,7 @@ Eficiência: A tela exige o mínimo de esforço: dois campos + botão + opção 
 
 ### 2. Tela de Cadastro
 
-![image](https://github.com/user-attachments/assets/14499437-5225-4cca-97f5-108ecbb04e12)
+![Image](https://github.com/user-attachments/assets/9235a265-f0e6-4ef2-a359-9c479db9c45d)
 
 #### Objetivo da Tela 
 
@@ -117,7 +117,7 @@ Eficiência: O formulário solicita apenas dados necessários para o primeiro ac
  
 
 ### 3. Tela de Criação de Perfil
-![image](https://github.com/user-attachments/assets/23ea8e42-3003-4a1f-a9fe-1c853d914579)
+![Image](https://github.com/user-attachments/assets/eab1deea-df0d-4f9c-878e-7f95fbb52bf0)
 
 #### Objetivo da Tela 
 
@@ -170,7 +170,7 @@ Eficiência: Apenas os campos essenciais são obrigatórios. O processo é rápi
  
 
 ### 4. Tela de Recuperação de Senha 
-![image](https://github.com/user-attachments/assets/a7458281-a943-4542-b9e4-0da3109aa01f)
+![Image](https://github.com/user-attachments/assets/3e057256-6c77-423c-bd5d-781e354cd67e)
 
 #### Objetivo da Tela 
 
@@ -223,7 +223,7 @@ Eficiência: Com apenas um campo e um botão, o processo é concluído em segund
  
 
 ### 5. Tela de Edição de Perfil
-![image](https://github.com/user-attachments/assets/8a188026-8775-4c77-8cf1-c400d5921f4c)
+![Image](https://github.com/user-attachments/assets/013a1e62-7147-4f3d-b881-4cc795016d2b)
 
 #### Objetivo da Tela 
 
@@ -276,7 +276,7 @@ Eficiência: Edição rápida e direta. O campo alterado pode ser salvo em pouco
  
 
 ### 6. Tela de Perfil 
-![image](https://github.com/user-attachments/assets/24965e3e-3c03-4a53-9838-cec0c8fc2b96)
+![Image](https://github.com/user-attachments/assets/0d06b268-5f8c-4a95-8ec2-42bf5abe7b26)
 
 #### Objetivo da Tela 
 
@@ -335,7 +335,7 @@ Eficiência: Tudo o que o usuário precisa em relação à conta está centraliz
  
 
 ### 7. Tela de Homepage ("página inicial")
-![image](https://github.com/user-attachments/assets/e029e429-4cea-4802-91b7-853c4e0990ab)
+![Image](https://github.com/user-attachments/assets/f1f9bf9c-dd70-4c78-b36d-1f7120128c78)
 
 #### Objetivo da Tela 
 
@@ -386,7 +386,7 @@ Eficiência: Processo de busca é rápido: selecionar datas → ver resultados �
  
 
 ### 8. Tela de Detalhamento do Quarto
-![image](https://github.com/user-attachments/assets/b3322781-7bb4-46ed-8168-696c5857e9ac)
+![Image](https://github.com/user-attachments/assets/54c25c4f-ffb3-4644-a101-812516dfa1ec)
 
 #### Objetivo da Tela 
 
@@ -437,7 +437,7 @@ Eficiência: Botão de reserva acessível logo ao lado dos dados principais, sem
  
 
 ### 9. Tela de Finalização da Reserva
-![image](https://github.com/user-attachments/assets/9b326e77-cd67-42f6-a6c0-e800832ccd87)
+![Image](https://github.com/user-attachments/assets/29420794-13ab-42c2-854b-974b46b45b1e)
 
 #### Objetivo da Tela 
 
