@@ -12,35 +12,33 @@
 
 
 ## 4.2 Mapa de Empatia
-Persona 1: Carla Mendes 
+### Persona 1: Carla Mendes 
+
 ![image](https://github.com/user-attachments/assets/d91605ad-fcaa-4c1d-b8c0-032528f28ac2)
 
-Persona 2: Diego Costa 
+### Persona 2: Diego Costa 
+
 ![image](https://github.com/user-attachments/assets/472c7590-a3a6-401a-bc97-df1c44b160a6)
 
- Persona 3: Lucas 
+### Persona 3: Lucas 
+
 ![image](https://github.com/user-attachments/assets/b41d6207-8aa5-4d01-bc27-776af6d63707)
 
- 
-Persona 4: Mariana 
+### Persona 4: Mariana 
 ![image](https://github.com/user-attachments/assets/46664015-8bd8-4eac-b0b5-1bd2ab783216)
 
 
-4.3 Protótipos das Interfaces 
+## 4.3 Protótipos das Interfaces 
 
-Apresente nesta seção os protótipos de alta fidelidade do sistema proposto. A fidelidade do protótipo refere-se ao nível de detalhes e funcionalidades incorporadas a ele. Assim, um protótipo de alta fidelidade é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidades. No desenvolvimento dos protótipos, devem ser considerados os princípios gestálticos, as recomendações ergonômicas e as regras de design (como as 8 regras de ouro). É importante descrever no texto do relatório como os princípios gestálticos e as regras de ouro foram seguidas no projeto das interfaces. Nesta etapa deve-se dar uma ênfase na implementação do software de modo que possam ser realizados os testes com usuários na etapa seguinte. 
-
-4.3 Protótipos das Interfaces 
-
-1. Tela de Login 
+### 1. Tela de Login 
 
 ![image](https://github.com/user-attachments/assets/0b46a87f-c890-4065-a2a8-d758a07231f1)
 
- Objetivo da Tela 
+#### Objetivo da Tela 
 
-        A tela de login tem como principal função autenticar o usuário de forma rápida, clara e segura, servindo como ponto de entrada para os diferentes perfis: administrador, recepcionista e cliente. Essa etapa garante o acesso apenas a usuários autorizados, respeitando os níveis hierárquicos de uso no sistema hoteleiro. 
+A tela de login tem como principal função autenticar o usuário de forma rápida, clara e segura, servindo como ponto de entrada para os diferentes perfis: administrador, recepcionista e cliente. Essa etapa garante o acesso apenas a usuários autorizados, respeitando os níveis hierárquicos de uso no sistema hoteleiro. 
 
-Princípios Gestálticos 
+#### Princípios Gestálticos 
 
 Proximidade: Elementos relacionados, como campos de "e-mail" e "senha", são agrupados visualmente e posicionados próximos, facilitando a identificação da tarefa de login como única e coesa; 
 
@@ -52,7 +50,7 @@ Figura-fundo: O formulário de login se destaca do plano de fundo, permitindo fo
 
 Fechamento: Elementos visuais como caixas delimitadas reforçam a forma completa do formulário, mesmo com uma estética clean, reforçando o entendimento da função da tela. 
 
-Regras de Ouro 
+#### Regras de Ouro 
 
 Consistência: Terminologias, botões e ícones são usados uniformemente em toda a plataforma; 
 
@@ -62,9 +60,7 @@ Redução da Carga de Memória: Campos bem rotulados e o uso de placeholders ori
 
 Prevenção de erros: Validações impedem o envio com campos vazios e informam erros como “formato de e-mail inválido”. 
 
-Recomendações Ergonômicas 
-
- 
+#### Recomendações Ergonômicas 
 
 Consistência: Cores, estilos de botões e estruturas de menus seguem o padrão das outras telas do sistema, promovendo coerência visual; 
 
@@ -76,15 +72,15 @@ Controle do usuário: Usuários redefinir senha, mantendo autonomia sobre a aç�
 
 Eficiência: A tela exige o mínimo de esforço: dois campos + botão + opção de recuperação de senha. 
 
- 2. Tela de Cadastro
+### 2. Tela de Cadastro
 
 ![image](https://github.com/user-attachments/assets/14499437-5225-4cca-97f5-108ecbb04e12)
 
-Objetivo da Tela 
+#### Objetivo da Tela 
 
-        A tela de cadastro tem como função registrar novos usuários no sistema, sejam clientes (hóspedes) ou funcionários (recepcionistas e administradores). Seu objetivo é coletar informações básicas de forma rápida, intuitiva e segura, promovendo a inclusão de usuários com diferentes níveis de familiaridade com tecnologia. 
+A tela de cadastro tem como função registrar novos usuários no sistema, sejam clientes (hóspedes) ou funcionários (recepcionistas e administradores). Seu objetivo é coletar informações básicas de forma rápida, intuitiva e segura, promovendo a inclusão de usuários com diferentes níveis de familiaridade com tecnologia. 
 
-Princípios Gestálticos 
+#### Princípios Gestálticos 
 
 Proximidade: Campos são agrupados por categoria, tornando a leitura mais organizada; 
 
@@ -96,7 +92,7 @@ Figura-fundo: O formulário de cadastro se destaca claramente sobre o plano de f
 
 Fechamento: Grupos de campos são visualmente delimitados, transmitindo a sensação de “completude” de seções. 
 
-Regras de Ouro 
+#### Regras de Ouro 
 
 Consistência: Mesma paleta de cores, fontes e botões usados na tela de login são mantidos aqui; 
 
@@ -106,9 +102,7 @@ Redução da Carga de Memória: Campos possuem etiquetas claras e ajuda contextu
 
 Feedback informativo: Cada campo tem validação em tempo real (por exemplo: “senha muito curta”, “e-mail inválido”), com ícones e mensagens de feedback. 
 
-Recomendações Ergonômicas 
-
- 
+#### Recomendações Ergonômicas 
 
 Consistência: O layout do formulário segue a identidade visual do sistema e mantém os padrões interativos; 
 
@@ -122,12 +116,12 @@ Eficiência: O formulário solicita apenas dados necessários para o primeiro ac
 
  
 
-3. Tela de Criação de Perfil
+### 3. Tela de Criação de Perfil
 ![image](https://github.com/user-attachments/assets/23ea8e42-3003-4a1f-a9fe-1c853d914579)
 
-Objetivo da Tela 
+#### Objetivo da Tela 
 
-        A tela de criação de perfil é exibida após o primeiro login ou cadastro, e tem como função permitir ao usuário personalizar sua conta, definindo: 
+A tela de criação de perfil é exibida após o primeiro login ou cadastro, e tem como função permitir ao usuário personalizar sua conta, definindo: 
 
 Uma foto de perfil (opcional, mas recomendada) 
 
@@ -139,7 +133,7 @@ Uma descrição curta do seu perfil (campo livre para bio, cargo, preferências,
 
 Essa tela personaliza a experiência e ajusta o sistema de acordo com o tipo de usuário, oferecendo uma interface mais amigável, conectada com as necessidades reais de cada perfil. 
 
-Princípios Gestálticos 
+#### Princípios Gestálticos 
 
 Proximidade: Os campos são organizados por blocos funcionais: imagem, dados pessoais, descrição. Isso ajuda o usuário a compreender que cada grupo tem um propósito específico; 
 
@@ -151,7 +145,7 @@ Figura-fundo: A área de preenchimento se destaca sobre o fundo da página, faci
 
 Fechamento: Os elementos do formulário estão dentro de um card ou contêiner delimitado, reforçando visualmente a conclusão da tarefa de preenchimento. 
 
-Regras de Ouro 
+#### Regras de Ouro 
 
 Consistência: Elementos visuais e interativos seguem o padrão de outras telas (botões, fontes, cores, posicionamento); 
 
@@ -161,9 +155,7 @@ Redução da Carga de Memória: Uso de ícones intuitivos e exemplos no placehol
 
 Feedback informativo: Após clicar em "Salvar e continuar", o usuário recebe uma confirmação. 
 
-Recomendações Ergonômicas 
-
- 
+#### Recomendações Ergonômicas 
 
 Consistência: Os controles de interface (inputs, botões, seleção de função) seguem o mesmo padrão visual já utilizado no sistema; 
 
@@ -177,12 +169,12 @@ Eficiência: Apenas os campos essenciais são obrigatórios. O processo é rápi
 
  
 
-4. Tela de Recuperação de Senha 
+### 4. Tela de Recuperação de Senha 
 ![image](https://github.com/user-attachments/assets/a7458281-a943-4542-b9e4-0da3109aa01f)
 
-Objetivo da Tela 
+#### Objetivo da Tela 
 
-        A tela de recuperação de senha tem como objetivo permitir que usuários que esqueceram sua senha possam recuperá-la de maneira segura, simples e confiável. Nela, o usuário: 
+A tela de recuperação de senha tem como objetivo permitir que usuários que esqueceram sua senha possam recuperá-la de maneira segura, simples e confiável. Nela, o usuário: 
 
 Informa o e-mail cadastrado no sistema 
 
@@ -192,7 +184,7 @@ Recebe no e-mail um link para redefinir sua senha
 
 Essa funcionalidade é fundamental para garantir a continuidade do acesso ao sistema. 
 
-Princípios Gestálticos 
+#### Princípios Gestálticos 
 
 Proximidade: O campo de e-mail e o botão de envio estão próximos, indicando que pertencem à mesma ação; 
 
@@ -204,7 +196,7 @@ Figura-fundo: O formulário é destacado sobre o fundo da página com alto contr
 
 Fechamento: A interface transmite claramente que a ação está completa após o envio (exibe mensagem "Enviamos um link para seu e-mail"). 
 
-Regras de Ouro 
+#### Regras de Ouro 
 
 Consistência: Cores, tipografia, botões e estrutura são consistentes com o resto do sistema; 
 
@@ -214,9 +206,7 @@ Redução da Carga de Memória: A interface solicita apenas um dado (e-mail), mi
 
 Feedback informativo: Após o envio, o sistema informa: “Um link de redefinição foi enviado para seu e-mail.” 
 
-Recomendações Ergonômicas 
-
- 
+#### Recomendações Ergonômicas 
 
 Consistência: A interface mantém o layout, botões e estilo das demais telas do sistema; 
 
@@ -232,11 +222,12 @@ Eficiência: Com apenas um campo e um botão, o processo é concluído em segund
 
  
 
-5. Tela de Edição de Perfil
+### 5. Tela de Edição de Perfil
 ![image](https://github.com/user-attachments/assets/8a188026-8775-4c77-8cf1-c400d5921f4c)
-Objetivo da Tela 
 
-        A tela de edição de perfil permite que o usuário atualize suas informações pessoais já cadastradas no sistema, incluindo: 
+#### Objetivo da Tela 
+
+A tela de edição de perfil permite que o usuário atualize suas informações pessoais já cadastradas no sistema, incluindo: 
 
 Foto de perfil 
 
@@ -248,7 +239,7 @@ Descrição pessoal
 
 Seu propósito é garantir que o usuário mantenha seus dados atualizados de forma fácil, clara e segura, promovendo uma experiência personalizada e flexível. 
 
-Princípios Gestálticos 
+#### Princípios Gestálticos 
 
 Proximidade: Campos relacionados permanecem agrupados, o que ajuda na identificação do propósito de cada seção; 
 
@@ -260,7 +251,7 @@ Figura-fundo: O formulário é destacado visualmente, com áreas claras de entra
 
 Fechamento: Os grupos de campos e as ações finais estão organizados em contêineres que sugerem completude da tarefa. 
 
-Regras de Ouro 
+#### Regras de Ouro 
 
 Consistência: Todos os elementos interativos seguem o padrão já utilizado no sistema; 
 
@@ -270,9 +261,7 @@ Redução da Carga de Memória: Todos os dados anteriores são carregados automa
 
 Feedback informativo: Ao salvar alterações, o sistema exibe uma mensagem como “Perfil atualizado com sucesso”. 
 
-Recomendações Ergonômicas 
-
- 
+#### Recomendações Ergonômicas 
 
 Consistência: Toda a estrutura e estilo seguem o modelo de criação de perfil, facilitando o reconhecimento de funções; 
 
@@ -286,11 +275,12 @@ Eficiência: Edição rápida e direta. O campo alterado pode ser salvo em pouco
 
  
 
-6. Tela de Perfil 
+### 6. Tela de Perfil 
 ![image](https://github.com/user-attachments/assets/24965e3e-3c03-4a53-9838-cec0c8fc2b96)
-Objetivo da Tela 
 
-        A tela de perfil é uma interface de consulta que permite ao usuário visualizar suas informações pessoais e acessar funcionalidades relacionadas à sua conta. Os principais elementos exibidos são: 
+#### Objetivo da Tela 
+
+A tela de perfil é uma interface de consulta que permite ao usuário visualizar suas informações pessoais e acessar funcionalidades relacionadas à sua conta. Os principais elementos exibidos são: 
 
 Foto de perfil 
 
@@ -308,7 +298,7 @@ Botão de logout (sair do sistema)
 
 Essa tela cumpre um papel essencial de centralizar informações pessoais e serviços relacionados à conta, de forma clara e acessível para qualquer tipo de usuário. 
 
-Princípios Gestálticos 
+#### Princípios Gestálticos 
 
 Proximidade: Informações pessoais (foto, nome e e-mail) estão agrupadas na parte superior; ações (editar, suporte, termos, sair) ficam organizadas em uma lista ou menu abaixo, facilitando a identificação funcional; 
 
@@ -320,7 +310,7 @@ Figura-fundo: A foto do perfil e as informações estão destacadas sobre um fun
 
 Fechamento: Cada seção tem seu espaço bem definido, com margens e divisórias visuais, reforçando o encerramento da área de conteúdo. 
 
-Regras de Ouro 
+#### Regras de Ouro 
 
 Consistência: Toda a interface segue o mesmo estilo visual e padrão de navegação do sistema; 
 
@@ -330,9 +320,7 @@ Redução da Carga de Memória: Informações básicas são mostradas diretament
 
 Feedback informativo: Ao clicar em “Editar perfil”, “Suporte” ou “Termos de uso”, o sistema fornece transições suaves. 
 
-Recomendações Ergonômicas 
-
- 
+#### Recomendações Ergonômicas 
 
 Consistência: Os ícones e botões seguem o mesmo padrão das outras interfaces (edição, suporte, sair); 
 
@@ -346,11 +334,12 @@ Eficiência: Tudo o que o usuário precisa em relação à conta está centraliz
 
  
 
-7. Tela de Homepage ("página inicial")
+### 7. Tela de Homepage ("página inicial")
 ![image](https://github.com/user-attachments/assets/e029e429-4cea-4802-91b7-853c4e0990ab)
-Objetivo da Tela 
 
-        A Homepage é o primeiro ponto de contato do visitante com o sistema. Seu objetivo é: 
+#### Objetivo da Tela 
+
+A Homepage é o primeiro ponto de contato do visitante com o sistema. Seu objetivo é: 
 
 Permitir a busca de hospedagem por data, com base nas preferências do usuário; 
 
@@ -360,7 +349,7 @@ Oferecer acesso rápido às ações principais: Cadastro e Login.
 
 Essa tela é voltada tanto para visitantes (usuários não logados) quanto para usuários recorrentes que desejam visualizar e reservar quartos com agilidade. 
 
-Princípios Gestálticos 
+#### Princípios Gestálticos 
 
 Proximidade: Elementos relacionados (filtros de data, resultados de busca, botões de ação) estão agrupados logicamente, o que guia a leitura e a navegação da página; 
 
@@ -372,7 +361,7 @@ Figura-fundo: Os anúncios de quartos estão em caixas com bordas ou sombreament
 
 Fechamento: Cada quarto é exibido em um “cartão” fechado visualmente, facilitando a percepção de onde começa e termina a informação. 
 
-Regras de Ouro 
+#### Regras de Ouro 
 
 Consistência: Botões, ícones e campos seguem o mesmo padrão de design presente nas outras telas do sistema; 
 
@@ -382,9 +371,7 @@ Redução da Carga de Memória: As informações essenciais dos quartos (nome, v
 
 Feedback informativo: Após selecionar as datas, o sistema informa imediatamente os quartos disponíveis ou uma mensagem como “Nenhum quarto disponível para o período”. 
 
-Recomendações Ergonômicas 
-
- 
+#### Recomendações Ergonômicas 
 
 Consistência: Layout idêntico entre os cartões de quartos; botões e interações uniformes em toda a interface; 
 
@@ -398,11 +385,12 @@ Eficiência: Processo de busca é rápido: selecionar datas → ver resultados �
 
  
 
-8. Tela de Detalhamento do Quarto
+### 8. Tela de Detalhamento do Quarto
 ![image](https://github.com/user-attachments/assets/b3322781-7bb4-46ed-8168-696c5857e9ac)
-Objetivo da Tela 
 
-        A tela de detalhamento do quarto tem como finalidade apresentar, de forma clara e atrativa, todas as informações relevantes sobre um quarto específico, com foco em: 
+#### Objetivo da Tela 
+
+A tela de detalhamento do quarto tem como finalidade apresentar, de forma clara e atrativa, todas as informações relevantes sobre um quarto específico, com foco em: 
 
 Ajudar o usuário a tomar a decisão de reserva com confiança 
 
@@ -412,7 +400,7 @@ Permitir acesso rápido ao botão de reserva
 
 Essa tela é fundamental para promover a transparência e melhorar a experiência do cliente na fase de decisão. 
 
-Princípios Gestálticos 
+#### Princípios Gestálticos 
 
 Proximidade: Informações relacionadas (capacidade, banheiros, avaliação) são agrupadas logo abaixo das imagens; 
 
@@ -424,7 +412,7 @@ Figura-fundo: As imagens do quarto ocupam a área de maior destaque, com fundo c
 
 Fechamento: Cada seção (dados técnicos, botão de reserva, amenidades) está visualmente separada com margens, sombras ou blocos, dando a sensação de agrupamento completo. 
 
-Regras de Ouro 
+#### Regras de Ouro 
 
 Consistência: Ícones, tipografia e estrutura visual seguem o mesmo padrão das outras telas do sistema; 
 
@@ -434,9 +422,7 @@ Redução da Carga de Memória: Todas as informações necessárias para decisã
 
 Feedback informativo: Ao clicar em “Reservar”, o sistema vai redirecionar para a finalização com destaque visual. 
 
-Recomendações Ergonômicas 
-
- 
+#### Recomendações Ergonômicas 
 
 Consistência: Mesmo estilo de botões, cores e ícones usados nas outras telas de navegação do sistema; 
 
@@ -450,11 +436,12 @@ Eficiência: Botão de reserva acessível logo ao lado dos dados principais, sem
 
  
 
-9. Tela de Finalização da Reserva
+### 9. Tela de Finalização da Reserva
 ![image](https://github.com/user-attachments/assets/9b326e77-cd67-42f6-a6c0-e800832ccd87)
-Objetivo da Tela 
 
-        A tela de finalização de reserva tem como propósito: 
+#### Objetivo da Tela 
+
+A tela de finalização de reserva tem como propósito: 
 
 Exibir um resumo completo da seleção de quartos feita pelo usuário; 
 
@@ -464,7 +451,7 @@ Conduzir o usuário de forma segura e clara à confirmação da reserva;
 
 Essa tela representa uma etapa decisiva na jornada do usuário e precisa transmitir segurança, transparência e objetividade. 
 
-Princípios Gestálticos 
+#### Princípios Gestálticos 
 
 Proximidade: Informações agrupadas logicamente: quartos selecionados à esquerda, carrinho com valores à direita, e, abaixo dele, campos de login/cadastro (quando aplicável); 
 
@@ -476,7 +463,7 @@ Figura-fundo: Blocos visuais distintos (seleção de reserva, resumo de valores,
 
 Fechamento: Cada seção tem sua própria estrutura visual bem delimitada, formando blocos fechados que facilitam a leitura e reduzem confusão. 
 
-Regras de Ouro 
+#### Regras de Ouro 
 
 Consistência: Ícones, botões e rótulos seguem o padrão da identidade visual da aplicação; 
 
@@ -486,9 +473,7 @@ Redução da Carga de Memória: Todas as informações necessárias para tomar a
 
 Feedback informativo: O sistema exibe mensagens claras ao remover quartos, atualizar valores, ou ao clicar em “Reservar Agora”. 
 
-Recomendações Ergonômicas 
-
- 
+#### Recomendações Ergonômicas 
 
 Consistência: A disposição de elementos segue o padrão usado nas telas anteriores (botões, títulos, campos de entrada); 
 
