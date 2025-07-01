@@ -1,6 +1,5 @@
 # 3. DOCUMENTO DE ESPECIFICAÇÃO DE REQUISITOS DE SOFTWARE 
 
- 
 
 ## 3.1 Objetivos deste documento 
 
@@ -10,7 +9,6 @@ Este documento tem como objetivo descrever e especificar as necessidades que dev
 
 ## 3.2 Escopo do produto 
 
- 
 
 ### 3.2.1 Nome do produto e seus componentes principais 
 
@@ -43,13 +41,6 @@ O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hósped
 ![image](https://github.com/user-attachments/assets/228cbfc5-4ba6-4827-992d-251614b08649)
 
 
-# 
-
-
-
- 
-
- 
 
 ## 3.3 Descrição geral do produto 
 
@@ -60,16 +51,10 @@ O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hósped
  ![image](https://github.com/user-attachments/assets/73290944-c76e-43ec-80d2-704b0912c034)
 
 
-
  ![image](https://github.com/user-attachments/assets/9ddcdeeb-e2dc-4565-b47f-9c311c4484c8)
 
 
-
-
 ![image](https://github.com/user-attachments/assets/aacc8d7a-15c2-48a8-b113-7e698482c4eb)
-
-
-
 
  
 
@@ -84,21 +69,10 @@ O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hósped
 
 
 
-
-
- 
-
 ### 3.3.2 Usuários  
 
  ![image](https://github.com/user-attachments/assets/b8660e1b-829e-40b6-a24e-b1e8151d97d5)
 
-
-
-
-
-
-
- 
 
 ## 3.4 Modelagem do Sistema 
 
@@ -106,10 +80,10 @@ O Hospedagem Simples não inclui recursos de avaliação ou feedback dos hósped
 
 ### 3.4.1 Diagrama de Casos de Uso 
 
-    Como observado no diagrama de casos de uso da Figura 1, o hóspede poderá gerenciar os dados pessoais, visualizar a disponibilidade de quartos e fazer reservas. O recepcionista poderá visualizar todas as reservas disponíveis, e o administrador, além dessas funções, poderá gerenciar todos os dados relacionados às reservas, informações de quartos e gestão de acessos. 
+Como observado no diagrama de casos de uso da Figura 1, o hóspede poderá gerenciar os dados pessoais, visualizar a disponibilidade de quartos e fazer reservas. O recepcionista poderá visualizar todas as reservas disponíveis, e o administrador, além dessas funções, poderá gerenciar todos os dados relacionados às reservas, informações de quartos e gestão de acessos. 
 
  
-****![image](https://github.com/user-attachments/assets/ccf6a084-f7ca-434b-8282-e808d9de077f)
+![image](https://github.com/user-attachments/assets/ccf6a084-f7ca-434b-8282-e808d9de077f)
 
 
 
@@ -190,7 +164,7 @@ Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
 
 ### 3.4.3 Diagrama de Classes  
 
-   A Figura 2 mostra o diagrama de classes do sistema de reservas. A Reserva deve conter a identificação do funcionário responsável pelo registro, bem como os dados do hóspede e do quarto reservado. Um quarto pode ter diversas reservas, mas pertence a apenas um tipo de quarto. Promoções podem ser aplicadas a diferentes reservas, e os preços podem variar de acordo com o período.
+A Figura 2 mostra o diagrama de classes do sistema de reservas. A Reserva deve conter a identificação do funcionário responsável pelo registro, bem como os dados do hóspede e do quarto reservado. Um quarto pode ter diversas reservas, mas pertence a apenas um tipo de quarto. Promoções podem ser aplicadas a diferentes reservas, e os preços podem variar de acordo com o período.
 
 
 ![image](https://github.com/user-attachments/assets/d5103cf1-4a2d-4c02-a6b3-6aa854709380)
