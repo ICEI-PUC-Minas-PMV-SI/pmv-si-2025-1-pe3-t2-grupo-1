@@ -123,13 +123,13 @@ Eficiência: O formulário solicita apenas dados necessários para o primeiro ac
 
 A tela de criação de perfil é exibida após o primeiro login ou cadastro, e tem como função permitir ao usuário personalizar sua conta, definindo: 
 
-Uma foto de perfil (opcional, mas recomendada) 
-
 Seu nome completo 
 
-Sua função no sistema (hóspede ou funcionário) 
+Seu número de telefone  
 
-Uma descrição curta do seu perfil (campo livre para bio, cargo, preferências, e etc.) 
+Seu endereço de e-mail
+
+Seu CPF
 
 Essa tela personaliza a experiência e ajusta o sistema de acordo com o tipo de usuário, oferecendo uma interface mais amigável, conectada com as necessidades reais de cada perfil. 
 
@@ -229,13 +229,13 @@ Eficiência: Com apenas um campo e um botão, o processo é concluído em segund
 
 A tela de edição de perfil permite que o usuário atualize suas informações pessoais já cadastradas no sistema, incluindo: 
 
-Foto de perfil 
-
 Nome completo 
 
-Função (hóspede ou funcionário) 
+Número de telefone
 
-Descrição pessoal 
+Endereço de e-mail
+
+CPF do usuário
 
 Seu propósito é garantir que o usuário mantenha seus dados atualizados de forma fácil, clara e segura, promovendo uma experiência personalizada e flexível. 
 
@@ -282,13 +282,13 @@ Eficiência: Edição rápida e direta. O campo alterado pode ser salvo em pouco
 
 A tela de perfil é uma interface de consulta que permite ao usuário visualizar suas informações pessoais e acessar funcionalidades relacionadas à sua conta. Os principais elementos exibidos são: 
 
-Foto de perfil 
-
 Nome completo do usuário 
 
 E-mail cadastrado 
 
 Acesso à página de edição de perfil 
+
+Acesso à página de controle de suas reservas
 
 Acesso ao suporte 
 
