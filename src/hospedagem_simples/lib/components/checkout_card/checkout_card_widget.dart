@@ -36,6 +36,8 @@ class _CheckoutCardWidgetState extends State<CheckoutCardWidget> {
   void initState() {
     super.initState();
     _model = createModel(context, () => CheckoutCardModel());
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override
@@ -369,7 +371,9 @@ class _CheckoutCardWidgetState extends State<CheckoutCardWidget> {
                     dateCheckIn: FFAppState().selectedDates.dataEntrada,
                     dateCheckOut: FFAppState().selectedDates.dataSaida,
                     status: Status.Confirmada,
-                    days: 1,
+                    days: functions.periodCalculator(
+                        FFAppState().selectedDates.dataEntrada,
+                        FFAppState().selectedDates.dataSaida),
                     roomType:
                         FFAppState().reservationCart.firstOrNull?.roomType,
                   ));
@@ -381,7 +385,9 @@ class _CheckoutCardWidgetState extends State<CheckoutCardWidget> {
                         dateCheckIn: FFAppState().selectedDates.dataEntrada,
                         dateCheckOut: FFAppState().selectedDates.dataSaida,
                         status: Status.Confirmada,
-                        days: 1,
+                        days: functions.periodCalculator(
+                            FFAppState().selectedDates.dataEntrada,
+                            FFAppState().selectedDates.dataSaida),
                         roomType:
                             FFAppState().reservationCart.firstOrNull?.roomType,
                       ),

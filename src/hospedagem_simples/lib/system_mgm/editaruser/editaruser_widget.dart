@@ -54,6 +54,8 @@ class _EditaruserWidgetState extends State<EditaruserWidget> {
     _model.textController4 ??=
         TextEditingController(text: widget!.userin?.phoneNumber);
     _model.textFieldFocusNode4 ??= FocusNode();
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

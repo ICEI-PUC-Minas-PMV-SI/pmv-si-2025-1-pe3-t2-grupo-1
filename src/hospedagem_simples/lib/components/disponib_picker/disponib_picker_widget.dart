@@ -33,6 +33,8 @@ class _DisponibPickerWidgetState extends State<DisponibPickerWidget> {
   void initState() {
     super.initState();
     _model = createModel(context, () => DisponibPickerModel());
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

@@ -35,6 +35,8 @@ class _SystemManagementWidgetState extends State<SystemManagementWidget> {
   void initState() {
     super.initState();
     _model = createModel(context, () => SystemManagementModel());
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

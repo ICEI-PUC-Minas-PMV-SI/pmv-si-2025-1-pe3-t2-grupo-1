@@ -39,6 +39,8 @@ class _DetalhesReservaWidgetState extends State<DetalhesReservaWidget> {
   void initState() {
     super.initState();
     _model = createModel(context, () => DetalhesReservaModel());
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

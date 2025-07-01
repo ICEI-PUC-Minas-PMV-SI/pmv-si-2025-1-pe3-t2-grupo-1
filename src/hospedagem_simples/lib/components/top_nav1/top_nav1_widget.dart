@@ -31,6 +31,8 @@ class _TopNav1WidgetState extends State<TopNav1Widget> {
   void initState() {
     super.initState();
     _model = createModel(context, () => TopNav1Model());
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override
@@ -172,7 +174,28 @@ class _TopNav1WidgetState extends State<TopNav1Widget> {
                             hoverColor: Colors.transparent,
                             highlightColor: Colors.transparent,
                             onTap: () async {
-                              context.pushNamed(ListarReservasWidget.routeName);
+                              if (currentUserReference != null) {
+                                context
+                                    .pushNamed(ListarReservasWidget.routeName);
+                              } else {
+                                await showDialog(
+                                  context: context,
+                                  builder: (alertDialogContext) {
+                                    return AlertDialog(
+                                      title: Text('Minhas reservas'),
+                                      content: Text(
+                                          'Para ver as suas reservas, faça login'),
+                                      actions: [
+                                        TextButton(
+                                          onPressed: () =>
+                                              Navigator.pop(alertDialogContext),
+                                          child: Text('Ok'),
+                                        ),
+                                      ],
+                                    );
+                                  },
+                                );
+                              }
                             },
                             child: Container(
                               width: 182.6,

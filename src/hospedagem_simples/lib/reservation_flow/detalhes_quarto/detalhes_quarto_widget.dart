@@ -157,6 +157,8 @@ class _DetalhesQuartoWidgetState extends State<DetalhesQuartoWidget>
         ],
       ),
     });
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

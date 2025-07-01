@@ -73,6 +73,8 @@ class _DescricaoQuartosWidgetState extends State<DescricaoQuartosWidget>
         ],
       ),
     });
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

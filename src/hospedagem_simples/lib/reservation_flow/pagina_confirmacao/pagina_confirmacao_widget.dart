@@ -202,6 +202,8 @@ class _PaginaConfirmacaoWidgetState extends State<PaginaConfirmacaoWidget>
         ],
       ),
     });
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

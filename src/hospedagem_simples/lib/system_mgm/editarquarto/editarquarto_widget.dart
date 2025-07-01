@@ -59,6 +59,8 @@ class _EditarquartoWidgetState extends State<EditarquartoWidget> {
 
     _model.textController5 ??= TextEditingController(text: 'URL');
     _model.textFieldFocusNode5 ??= FocusNode();
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override
@@ -1293,6 +1295,27 @@ class _EditarquartoWidgetState extends State<EditarquartoWidget> {
                                                                       ),
                                                                     });
                                                                   }
+
+                                                                  context
+                                                                      .pushNamed(
+                                                                    EditarquartoWidget
+                                                                        .routeName,
+                                                                    queryParameters:
+                                                                        {
+                                                                      'room':
+                                                                          serializeParam(
+                                                                        widget!
+                                                                            .room,
+                                                                        ParamType
+                                                                            .Document,
+                                                                      ),
+                                                                    }.withoutNulls,
+                                                                    extra: <String,
+                                                                        dynamic>{
+                                                                      'room': widget!
+                                                                          .room,
+                                                                    },
+                                                                  );
                                                                 },
                                                                 child: Icon(
                                                                   Icons

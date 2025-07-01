@@ -49,6 +49,8 @@ class _CartReservationWidgetState extends State<CartReservationWidget> {
           _model.selectedRoomType!.valordiaria * widget!.reservationData!.days);
       safeSetState(() {});
     });
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

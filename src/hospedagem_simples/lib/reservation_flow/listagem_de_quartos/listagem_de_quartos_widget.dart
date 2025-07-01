@@ -95,6 +95,8 @@ class _ListagemDeQuartosWidgetState extends State<ListagemDeQuartosWidget>
           !anim.applyInitialState),
       this,
     );
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

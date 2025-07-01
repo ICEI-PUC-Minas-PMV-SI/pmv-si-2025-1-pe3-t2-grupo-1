@@ -39,6 +39,8 @@ class _EntrypageWidgetState extends State<EntrypageWidget> {
       _model.endDate = getCurrentTimestamp.toString();
       safeSetState(() {});
     });
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

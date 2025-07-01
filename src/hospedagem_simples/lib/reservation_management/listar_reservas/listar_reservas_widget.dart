@@ -46,6 +46,8 @@ class _ListarReservasWidgetState extends State<ListarReservasWidget> {
         curve: Curves.ease,
       );
     });
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override

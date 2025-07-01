@@ -45,6 +45,8 @@ class _CarrinhoReservasWidgetState extends State<CarrinhoReservasWidget> {
       FFAppState().myCartSummary = [];
       FFAppState().update(() {});
     });
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 
   @override
